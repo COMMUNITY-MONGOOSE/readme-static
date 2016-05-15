@@ -8,4 +8,4 @@
 [![To-do](https://img.shields.io/waffle/label/koistya/react-static-boilerplate/to-do.svg?style=flat-square)](https://waffle.io/koistya/react-static-boilerplate)
 [![In progress](https://img.shields.io/waffle/label/koistya/react-static-boilerplate/in%20progress.svg?style=flat-square)](https://waffle.io/koistya/react-static-boilerplate)
 
-> Static website starter kit powered by [React.js](http://facebook.github.io/react/) and [Webpack](http://webpack.github.io/)
+> Static website readme powered by [M.js](http://facebook.github.io/react/) and [Webpack](http://webpack.github.io/)
